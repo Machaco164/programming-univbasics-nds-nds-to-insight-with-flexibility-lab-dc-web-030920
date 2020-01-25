@@ -59,7 +59,6 @@ def movies_with_director_key(name, movies_collection)
   end
 
   result
-  binding.pry
 end
 
 
